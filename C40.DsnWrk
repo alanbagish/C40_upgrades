@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=C40 IMB Upgrade.PrjPCB
+[Project2]
+ProjectPath=..\MAO MCS\Magellan Active Optics MCS.PrjCor
