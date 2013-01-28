@@ -1,0 +1,290 @@
+
+
+
+          SolidWorks Corporation - STEP Processor Error Log
+          ______________________________________________________
+
+                       STEP Post Processor
+                       ___________________
+
+
+STEP File Name: D:\alanb OCIW work Sept 26 2012\C40_upgrades\solids\DMC4080_01_model-42000.stp
+
+
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80587 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80583 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80605 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80599 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80595 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80609 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80653 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80667 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80663 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80657 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80676 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80672 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80693 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80689 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80718 failed by 4.00728e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80714 failed by -3.43839e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80708 failed by 4.00728e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80704 failed by -3.43839e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80734 failed by -3.43839e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #80738 failed by 4.00728e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85132 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85140 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85163 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85157 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85368 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85376 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85399 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85393 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85500 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85508 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85531 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85525 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85562 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85570 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85593 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85587 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85624 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85632 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85655 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85649 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85694 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85686 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85711 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #85717 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86095 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86087 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86118 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86112 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86157 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86149 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86174 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86180 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86219 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86211 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86236 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86242 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86281 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86273 failed by 4.00724e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86298 failed by -3.43836e-010
+Calculation of x-axis in AXIS2_PLACEMENT_3D #86304 failed by 4.00724e-010
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.
